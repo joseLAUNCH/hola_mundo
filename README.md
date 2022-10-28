@@ -1,4 +1,4 @@
-# hola_mundo
+# HOLA MUNDO
 Mi primer repositorio de prueba
 
 Autor: jose
